@@ -1,10 +1,14 @@
 # statistics-for-datascience
 This Repository contains files used for my presentation on Statistics for data-science
+
 Below Are The Topics Covered
 
 *** Understanding Data
+
 *** Understanding Data Science
+
 *** Understanding Statistics
+
 *** Branches of Statistics
 
 --- FUNDAMENTAL OF DESCRIPTIVE STATITICS
